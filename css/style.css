@@ -19,6 +19,7 @@ body {
   flex-basis: 400px;
   background: #fff;
   padding: 20px;
+  border-radius: 12px;
 }
 /* Mengatur judul form dengan border bawah dan posisi di tengah */
 .login-box h2 {
@@ -35,6 +36,7 @@ select {
   padding: 15px 20px;
   margin: 8px 0;
   border: 1px solid #ccc;
+  border-radius: 12px;
 }
 /* Mengatur tampilan tombol submit */
 input[type="submit"] {
